@@ -53,9 +53,7 @@ in an improvement in traffic flow.
 
 * `Signal Switching Algorithm and Simulation`
 
-<p align="center">
-    <img src="./Demo.gif">
-</p>
+![](https://github.com/Intelligent-Traffic-Control-System/Demo.gif)
 
 
 ------------------------------------------
