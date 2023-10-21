@@ -44,12 +44,7 @@ in an improvement in traffic flow.
 ### Process
 
 * `Vehicle Detection`
-
-<p align="center">
- <img height=400px src="./vehicle-detection.png" alt="Vehicle Detection">
-</p>
-
-<br> 
+![image].(https://github.com/Intelligent-Traffic-Control-System/vehicle-detection.png)
 
 * `Signal Switching Algorithm and Simulation`
 
