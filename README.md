@@ -1,4 +1,3 @@
-# Intelligent-Traffic-Control-System
 <p align="center">
  <img height=200px src="./traffic-signal.jpeg" alt="Traffic Signal Timer">
 </p>
