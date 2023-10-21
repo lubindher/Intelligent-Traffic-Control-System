@@ -48,7 +48,7 @@ in an improvement in traffic flow.
 
 * `Signal Switching Algorithm and Simulation`
 
-![](https://github.com/lubindher/Intelligent-Traffic-Control-System/blob/main/Demo.gif)
+![Demo.gif](https://github.com/lubindher/Intelligent-Traffic-Control-System/blob/main/Demo.gif)
 
 
 ------------------------------------------
