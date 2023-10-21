@@ -44,11 +44,11 @@ in an improvement in traffic flow.
 ### Process
 
 * `Vehicle Detection`
-![image].(https://github.com/Intelligent-Traffic-Control-System/vehicle-detection.png)
+  
+![vehicle-detection](https://github.com/lubindher/Intelligent-Traffic-Control-System/assets/119559904/83016594-7c10-4fa0-a585-2b75ba2d1f5b)
 
 * `Signal Switching Algorithm and Simulation`
 
-![](https://github.com/Intelligent-Traffic-Control-System/Demo.gif)
 
 
 ------------------------------------------
